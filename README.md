@@ -10,13 +10,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-$ php composer.phar require webtoucher/yii2-amqp "*"
+$ php composer.phar require femike/yii2-amqp-rrobin "*"
 ```
 
 or add
 
 ```
-"webtoucher/yii2-amqp": "*"
+"femike/yii2-amqp-rrobin": "*"
 ```
 
 to the ```require``` section of your `composer.json` file.
